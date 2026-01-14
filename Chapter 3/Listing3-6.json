@@ -1,0 +1,25 @@
+{  
+
+   "OverrideMultiplayerRole" : "True",  
+
+   "StartAsHost" : "False",  
+
+   "StartAsServer" : "True",  
+
+   "StartAsClient" : " False ",  
+
+   "MaxPlayers" : "3",  
+
+   "Port" : "8887",  
+
+   "EnableBots" : "True",  
+
+   "AllowReconnection" : "False",  
+
+   "ServerIP" : "127.0.0.1",  
+
+   "AutoConnect" : "True", 
+
+   "Secret API Key" : "<Do not share me>!" 
+
+} 

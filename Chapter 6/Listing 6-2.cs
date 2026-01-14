@@ -1,0 +1,1 @@
+./MyGame.x86_64 -batchmode -nographics -logfile GameLog.txt 
