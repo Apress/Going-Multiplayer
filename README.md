@@ -3,7 +3,7 @@
 This repository accompanies [*Going Multiplayer*](https://www.link.springer.com/book/979-8-8688-2031-1) by Paolo Abela (Apress, 2026).
 
 [comment]: #cover
-![Cover image](979-8-8688-2030-4.jpg)
+![Cover image](979-8-8688-2031-1.jpg)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
